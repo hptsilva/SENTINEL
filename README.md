@@ -2,7 +2,7 @@
   <h3 class="heading-element" align="center" dir=auto>SENTINEL</h3>
 </div>
 
-#### Criado por [Humberto Silva](https://github.com/hptsilva/). O SENTINEL é uma versão reduzida do [ISAC](https://github.com/isac-bot/ISAC), executado num servidor local para fins de aprendizado.
+#### O SENTINEL é uma versão reduzida do [ISAC](https://github.com/isac-bot/ISAC), executado num servidor local para fins de aprendizado.
 
 # Adicione no seu servidor:
 
