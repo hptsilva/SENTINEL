@@ -3,6 +3,7 @@
 </div>
 
 #### O SENTINEL é uma versão reduzida do [ISAC](https://github.com/isac-bot/ISAC), executado num servidor local para fins de aprendizado.
+Para acessar a dashboard do bot use o link https://sentinel.hptsilva.dev/
 
 # Adicione no seu servidor:
 
